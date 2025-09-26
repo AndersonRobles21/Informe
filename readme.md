@@ -18,7 +18,9 @@
 
                                                            
                                                                 TECNOLOGIAS PLANEADAS A USAR
-1. Frontend (lo que ve el cliente)
+                                                                  
+                                                                  
+                                                                     Frontend 
 
 HTML5 → estructura de la página (catálogo, carrito, formularios).
 

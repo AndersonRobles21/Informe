@@ -31,3 +31,19 @@ JavaScript (JS) → interactividad: Para el carrito de compras
 Validar formularios.
 
 Botón de WhatsApp con mensaje dinámico.
+
+2. Backend (lo que maneja datos en el servidor)
+
+PHP o Node.js con Express (dependiendo de lo que usen en tu tecnólogo).
+
+Programación Orientada a Objetos (POO) → organizar el código en clases como Producto, Cliente, Pedido.
+
+
+
+---
+
+3. Base de datos
+
+MySQL → almacena los productos, clientes, pedidos y el detalle de cada pedido.
+
+Aquí se hacen consultas CRUD (Create, Read, Update, Delete).

@@ -51,16 +51,18 @@ Soporte para PHP + MySQL, lo que asegura compatibilidad con la solución propues
 
 Dominio propio (ejemplo: dulcetentacion.com).
 
-                                                                   ---- HOSTINGER---
+                                                              ---- HOSTINGER---
 
 1. El hosting alquila un servidor (computador conectado 24/7 en internet).
 
-2. En ese servidor se instala un software de servidor web (Apache/Nginx).
+2. Precio de 10.000 a 15.000 COP 
 
-3. Cuando un cliente entra a dulcetentacion.com, el navegador hace una solicitud HTTP al servidor.
+3. En ese servidor se instala un software de servidor web (Apache/Nginx).
 
-4. El servidor procesa la solicitud con PHP, consulta la base de datos en MySQL si es necesario y devuelve la respuesta (página renderizada).
+4. Cuando un cliente entra a dulcetentacion.com, el navegador hace una solicitud HTTP al servidor.
 
-5. El navegador del cliente muestra el resultado en formato HTML, CSS y JavaScript.
+5. El servidor procesa la solicitud con PHP, consulta la base de datos en MySQL si es necesario y devuelve la respuesta (página renderizada).
+
+6. El navegador del cliente muestra el resultado en formato HTML, CSS y JavaScript.
    
 De esta manera, la página siempre está en línea y disponible para cualquier usuario.

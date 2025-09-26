@@ -17,8 +17,9 @@
 
 
                                                            
-                                                                TECNOLOGIAS PLANEADAS A USAR
-                                                                  
+                                                               
+                                                              TECNOLOGIAS PLANEADAS A USAR
+   Se va a utilizar                                                               
                                                                   
                                                                      Frontend 
 

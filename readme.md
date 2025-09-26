@@ -1,5 +1,7 @@
 🧁 Emprendimiento: Pastelería Kakris🧁
 
+                                                          Introducción
+
 KaKris Pastelería es un emprendimiento artesanal que combina tradición, innovación y opciones saludables para endulzar los momentos especiales de sus clientes. Sin embargo, en un mercado cada vez más competitivo y digitalizado, resulta fundamental integrar herramientas tecnológicas que permitan optimizar procesos, mejorar la experiencia del cliente y garantizar la sostenibilidad del negocio.
 
 La propuesta consiste en analizar los procesos de KaKris Pastelería desde una perspectiva tecnológica, identificando qué áreas pueden digitalizarse, qué software y hardware resultan más adecuados, y cómo estas soluciones potencian la operación y el crecimiento de la empresa. Con el uso de plataformas digitales, aplicaciones móviles, bases de datos y, de ser necesario, dispositivos IoT, la pastelería no solo aumentará su eficiencia interna, sino que también fortalecerá su relación con los clientes y su posicionamiento en el mercado.

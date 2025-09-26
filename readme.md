@@ -1,6 +1,6 @@
 🧁 Emprendimiento: Pastelería Kakris🧁
 
-                                                          Introducción
+                                                        Introducción
 
 KaKris Pastelería es un emprendimiento artesanal que combina tradición, innovación y opciones saludables para endulzar los momentos especiales de sus clientes. Sin embargo, en un mercado cada vez más competitivo y digitalizado, resulta fundamental integrar herramientas tecnológicas que permitan optimizar procesos, mejorar la experiencia del cliente y garantizar la sostenibilidad del negocio.
 
@@ -12,10 +12,10 @@ Este informe presenta un plan de digitalización para KaKris Pastelería, con un
 Implementar un sistema digital integral que optimice los procesos de pedidos, pagos, gestión de inventario y fidelización de clientes en KaKris Pastelería, con el fin de mejorar la eficiencia operativa, garantizar la calidad de los productos y fortalecer la relación con los consumidores, posicionando a la empresa como un referente innovador en repostería artesanal y saludable.
                            
                                                                
-                                                              TECNOLOGIAS PLANEADAS A USAR
+                                                   TECNOLOGIAS PLANEADAS A USAR
  Se va a utilizar                                                               
                                                                   
-                                                                     Frontend 
+                                                         Frontend 
 
 HTML5 → estructura de la página (catálogo, carrito, formularios).
 
@@ -29,7 +29,7 @@ Validar formularios.
 Botón de WhatsApp con mensaje dinámico.
 
 
-                                                                 ---BACKEND---
+                                                         ---BACKEND---
                                                                  
 2. PHP o Node.js con Express (dependiendo de lo que usen en tu tecnólogo).
 
@@ -53,18 +53,17 @@ Soporte para PHP + MySQL, lo que asegura compatibilidad con la solución propues
 
 Dominio propio (ejemplo: dulcetentacion.com).
 
-                                                              ---- HOSTINGER---
+                                                      ---- HOSTINGER---
 
-1. El hosting alquila un servidor (computador conectado 24/7 en internet).
+Dominio gratis durante 1 año
+Disfruta de tus sitios de WordPress sin ocuparte del mantenimiento
+Administra sitios web más fácilmente con WordPress multisitio
+Usa la línea de comandos de WordPress para obtener resultados inmediatos
+Dominio gratis durante 1 año
+Disfruta de tus sitios de WordPress sin ocuparte del mantenimiento
+Administra sitios web más fácilmente con WordPress multisitio
+Usa la línea de comandos de WordPress para obtener resultados inmediatos
 
-2. Precio de 10.000 a 15.000 COP 
-
-3. En ese servidor se instala un software de servidor web (Apache/Nginx).
-
-4. Cuando un cliente entra a dulcetentacion.com, el navegador hace una solicitud HTTP al servidor.
-
-5. El servidor procesa la solicitud con PHP, consulta la base de datos en MySQL si es necesario y devuelve la respuesta (página renderizada).
-
-6. El navegador del cliente muestra el resultado en formato HTML, CSS y JavaScript.
-   
-De esta manera, la página siempre está en línea y disponible para cualquier usuario.
+COP$ 
+8.900/mes
++2 meses GRATIS
